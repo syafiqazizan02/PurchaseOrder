@@ -13,5 +13,6 @@ Signification for this project which are:
 2) PHP
 3) Boostrap
 4) HTML CSS
+5) MySQL
 
 
